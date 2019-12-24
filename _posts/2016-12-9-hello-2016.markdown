@@ -1,0 +1,16 @@
+---
+layout:     post
+title:      "这里是开始"
+subtitle:   " \"Hello World, Hello Blog\""
+date:       2016-12-9 00:25:00
+author:     "chengfeir"
+header-img: "img/post-bg-2015.jpg"
+catalog: true
+tags:
+    - 生活
+---
+# 这里是开始
+
+一直想有一个独立域名的博客，但是迟迟没有动手去做，因为觉得很麻烦。但是知道了jekyll加github能够完成想要的东西之后，我动手搭建了这个博客。[GitHub Pages](https://pages.github.com/) + [Jekyll](http://jekyllrb.com/) 快速 Building Blog 的技术方案，非常轻松时尚。
+
+感谢Hux的模板。
